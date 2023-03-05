@@ -3,7 +3,7 @@ import pandas as pd
 import time
 import calendar
 # Load the data
-df = pd.read_csv('/home/ananth/slit/aqi_2016_to_2023.csv')
+df = pd.read_csv('aqi_2016_to_2023.csv')
 
 # Convert date column to datetime
 df['date'] = pd.to_datetime(df['date'])
