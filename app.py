@@ -9,7 +9,7 @@ df = pd.read_csv('aqi_2016_to_2023.csv')
 df['date'] = pd.to_datetime(df['date'])
 
 # Define the Streamlit app
-st.title('AQI Predictor (Telengana)')
+st.title('AQI Predictor (Telangana)')
 
 # Add input widgets for location, year, and month
 location_options = df['location'].unique()
