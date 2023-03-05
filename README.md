@@ -1,6 +1,6 @@
 # AQI-prediction-using-Temporal-Fusion-Transformer
 
-![App] (https://ananthzeke-aqi-prediction-using-temporal-fusion-tran-app-2c0b4r.streamlit.app/)
+[App](https://ananthzeke-aqi-prediction-using-temporal-fusion-tran-app-2c0b4r.streamlit.app/)
 
 ### Mean Absolue Error - 13.9366
 
